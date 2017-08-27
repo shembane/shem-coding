@@ -1,0 +1,63 @@
+* {
+
+}
+
+html {
+  display: block;
+  background-image: url("https://www.w3schools.com/css/paper.gif");
+}
+
+p {
+  color: red;
+  text-align: center;
+
+}
+
+#para1 {
+  text-align: center;
+  color: green;
+}
+
+/*.center {
+  text-align: center;
+  text color: red;
+}*/
+
+/*p large {
+  font-size: 300%;
+}*/
+
+h1, h2, p {
+  text-align: center;
+  color: red;
+}
+
+p {
+  text-align: center;
+  color: red;
+  /* this is a coment */
+}
+
+/*body {
+  background-color:  ;
+}*/
+
+/*div {
+  background-color: red
+}*/
+
+p {
+  /*background-color: red;*/
+
+.mainpara {
+  display: block;
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.border1 {
+  border: 2px dashed black;
+}
