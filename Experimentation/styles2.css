@@ -1,1 +1,24 @@
 
+
+h1 {
+  colour: blue;
+  background-color: yellow;
+  border: 1px solid black;
+  text-align: center;
+}
+
+p {
+  color: red;
+}
+
+p, li {
+  text-decoration: underline;
+}
+
+
+@@media (min-width: 801px) {
+body {
+  margin: 0 auto;
+    width: 800px;
+}
+}
