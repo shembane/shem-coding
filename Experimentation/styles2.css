@@ -5,6 +5,7 @@ h1 {
   background-color: yellow;
   border: 1px solid black;
   text-align: center;
+  text-decoration: underline;
 }
 
 p {
@@ -16,9 +17,9 @@ p, li {
 }
 
 
-@@media (min-width: 801px) {
-body {
-  margin: 0 auto;
+@media (min-width: 80px) {
+  body {
+    margin: 0 auto;
     width: 800px;
-}
+  }
 }
